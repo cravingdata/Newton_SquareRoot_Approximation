@@ -2,5 +2,5 @@ iteration	approximation	better	abs(approximation - better) 	n = 25
 1	25/2 = 12.5	7.25	12.5-7.25 = 5.25	
 2	7.25	5.349	1.901	
 3	5.349	5.011	0.338	
-4	5.011	5	0.011	
+4	5.011	5	0.016	
 5	5	5	0	
